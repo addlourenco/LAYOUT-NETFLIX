@@ -8,7 +8,7 @@
 - JavaScript
 #
 <br>
-<a href="https://addlourenco.github.io/LAYOUT-NETFLIX/" target="_blank">Clique aqui para acessar.</a>
+- <a href="https://addlourenco.github.io/LAYOUT-NETFLIX/" target="_blank">Clique aqui para ver o projeto.</a>
 
 
 ## Requisitos
